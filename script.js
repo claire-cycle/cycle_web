@@ -61,7 +61,7 @@ createApp({
                     image: 'https://free.picui.cn/free/2025/08/03/688f74a5eee30.png',
                     status: 'planning',
                     technologies: ['python', 'web3'],
-                    github: 'https://github.com/yourusername/lms-platform',
+                    github: null,
                     demo: null
                 },
                 {
@@ -74,13 +74,24 @@ createApp({
                     technologies: ['python', 'web3'],
                     github: null,
                     demo: null
+                },
+                {
+                    id: 7,
+                    title: 'addplus',
+                    description: 'ADD+是一个 InfoFi 原生数据基础设施平台，它弥合了现实世界数据货币化和透明的链上用户奖励之间的差距。',
+                    fullDescription: 'ADD+是一个 InfoFi 原生数据基础设施平台，它弥合了现实世界数据货币化和透明的链上用户奖励之间的差距。ADD+最初是一家 Web2 数据分析公司，通过向企业客户（包括财富 500 强品牌）出售匿名消费者洞察。通过将成熟的 Web2 收入引擎转变为 Web3 原生奖励模型，ADD+ 使得每个用户行为都会被跟踪并得到公平的补偿。',
+                    image: 'https://youke1.picui.cn/s1/2025/08/04/68909149b0ed0.png',
+                    status: 'in-progress',
+                    technologies: ['python', 'web3'],
+                    github: 'https://github.com/claire-cycle/addplus',
+                    demo: null
                 }
             ],
             contactInfo: [
                 {
                     type: 'email',
-                    label: 'ruichencai@gmai.com',
-                    link: 'mailto:ruichencai@gmai.com',
+                    label: 'ruichencai@gmail.com',
+                    link: 'mailto:ruichencai@gmail.com',
                     icon: 'fas fa-envelope'
                 },
                 {

@@ -85,7 +85,29 @@ createApp({
                     technologies: ['python', 'web3'],
                     github: 'https://github.com/claire-cycle/addplus',
                     demo: null
-                }
+                },
+                {
+                    id: 8,
+                    title: 'addplus_register',
+                    description: 'ADD+是一个 InfoFi 原生数据基础设施平台，它弥合了现实世界数据货币化和透明的链上用户奖励之间的差距。',
+                    fullDescription: '用于注册ADD+用户。',
+                    image: 'https://youke1.picui.cn/s1/2025/08/04/68909149b0ed0.png',
+                    status: 'in-progress',
+                    technologies: ['python', 'web3'],
+                    github: 'https://github.com/claire-cycle/addplus_register',
+                    demo: null
+                },
+                {
+                    id: 9,
+                    title: 'apriori',
+                    description: 'aPriori 是一种 MEV 基础设施和流动性质押协议，专为并行执行时代而设计，并基于 Monad 原生构建。',
+                    fullDescription: 'aPriori 是一种 MEV 基础设施和流动性质押协议，专为并行执行时代而设计，并基于 Monad 原生构建。',
+                    image: 'https://youke1.picui.cn/s1/2025/08/09/6896bf1e9a5da.png',
+                    status: 'in-progress',
+                    technologies: ['python', 'web3','monad'],
+                    github: 'https://github.com/claire-cycle/apriori_bot',
+                    demo: null
+                },
             ],
             contactInfo: [
                 {

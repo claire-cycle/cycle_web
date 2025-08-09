@@ -99,7 +99,7 @@ createApp({
                 },
                 {
                     id: 9,
-                    title: 'apriori',
+                    title: 'aPriori',
                     description: 'aPriori 是一种 MEV 基础设施和流动性质押协议，专为并行执行时代而设计，并基于 Monad 原生构建。',
                     fullDescription: 'aPriori 是一种 MEV 基础设施和流动性质押协议，专为并行执行时代而设计，并基于 Monad 原生构建。',
                     image: 'https://youke1.picui.cn/s1/2025/08/09/6896bf1e9a5da.png',
